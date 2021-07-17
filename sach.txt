@@ -1,1 +1,3 @@
 hello this is my first git assignment
+ now i am learninng git 
+further adding details to the method
